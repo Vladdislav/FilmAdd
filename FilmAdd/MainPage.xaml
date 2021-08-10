@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FilmAdd.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Welcome to Film Add" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <CollectionView 
+            ItemsSource="{Binding Films}"
+            SelectionMode="Single"
+            SelectionChanged="OnSelectionChanged"
+           >
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Grid Padding="15"
+                            RowDefinitions="Auto, *"
+                            ColumnDefinitions="Auto, *">
+                        <Image Grid.RowSpan="2"
+                                    Source="{Binding ImageURL}"
+                                    Aspect="AspectFill"
+                                    HeightRequest="60"
+                                    WidthRequest="60">
+                        </Image>
+                        <Label Grid.Column="1"
+                               Text="{Binding Name}"
+                               FontAttributes="Bold">
+                        </Label>
+                        <Label Grid.Row="1"
+                               Grid.Column="1"
+                               Text="{Binding Description}"
+                               VerticalOptions="End">
+                            
+                        </Label>
+                    </Grid>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </StackLayout>
+
+</ContentPage>

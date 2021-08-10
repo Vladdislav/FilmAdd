@@ -1,0 +1,14 @@
+C:\XamarinAplication\FilmAdd\FilmAdd\bin\Debug\netstandard2.0\FilmAdd.deps.json
+C:\XamarinAplication\FilmAdd\FilmAdd\bin\Debug\netstandard2.0\FilmAdd.dll
+C:\XamarinAplication\FilmAdd\FilmAdd\bin\Debug\netstandard2.0\ref\FilmAdd.dll
+C:\XamarinAplication\FilmAdd\FilmAdd\bin\Debug\netstandard2.0\FilmAdd.pdb
+C:\XamarinAplication\FilmAdd\FilmAdd\obj\Debug\netstandard2.0\FilmAdd.csproj.AssemblyReference.cache
+C:\XamarinAplication\FilmAdd\FilmAdd\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\XamarinAplication\FilmAdd\FilmAdd\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\XamarinAplication\FilmAdd\FilmAdd\obj\Debug\netstandard2.0\FilmAdd.AssemblyInfoInputs.cache
+C:\XamarinAplication\FilmAdd\FilmAdd\obj\Debug\netstandard2.0\FilmAdd.AssemblyInfo.cs
+C:\XamarinAplication\FilmAdd\FilmAdd\obj\Debug\netstandard2.0\FilmAdd.csproj.CoreCompileInputs.cache
+C:\XamarinAplication\FilmAdd\FilmAdd\obj\Debug\netstandard2.0\XamlC.stamp
+C:\XamarinAplication\FilmAdd\FilmAdd\obj\Debug\netstandard2.0\FilmAdd.dll
+C:\XamarinAplication\FilmAdd\FilmAdd\obj\Debug\netstandard2.0\ref\FilmAdd.dll
+C:\XamarinAplication\FilmAdd\FilmAdd\obj\Debug\netstandard2.0\FilmAdd.pdb

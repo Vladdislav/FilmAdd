@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lia8cSNw1cShD1qGRT+XDwvfv+Vx3q7MEiz1KilbaY1DDWdZP0WVkqs44H6ttVtQMhaInvvSXgzXrJH6n7MTSQ==",
+  "success": true,
+  "projectFilePath": "C:\\XamarinAplication\\FilmAdd\\FilmAdd.iOS\\FilmAdd.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Владислав Невер\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
