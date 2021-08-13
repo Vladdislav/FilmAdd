@@ -12,3 +12,5 @@ C:\XamarinAplication\FilmAdd\FilmAdd\obj\Debug\netstandard2.0\XamlC.stamp
 C:\XamarinAplication\FilmAdd\FilmAdd\obj\Debug\netstandard2.0\FilmAdd.dll
 C:\XamarinAplication\FilmAdd\FilmAdd\obj\Debug\netstandard2.0\ref\FilmAdd.dll
 C:\XamarinAplication\FilmAdd\FilmAdd\obj\Debug\netstandard2.0\FilmAdd.pdb
+C:\XamarinAplication\FilmAdd\FilmAdd\obj\Debug\netstandard2.0\Views\AlertPage.xaml.g.cs
+C:\XamarinAplication\FilmAdd\FilmAdd\obj\Debug\netstandard2.0\Views\LibraryPage.xaml.g.cs
