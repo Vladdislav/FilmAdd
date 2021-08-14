@@ -24,7 +24,13 @@ namespace FilmAdd.Views
         private async void OnDisplayAlertQuestionButtonClicked(object sender, EventArgs e)
         {
             bool responce = await DisplayAlert("Save", "Would you like to save your Data?", "Yes", "No");
+
             Console.WriteLine("Save data:" + responce);
+
+            if(responce != true)
+                await DisplayAlert("Error", "Don't save your changes", "Quit");
+            else
+                await DisplayAlert("Done", "Data saved", "Quit");
         }
     }
 }

@@ -17,16 +17,20 @@
                         <Image Grid.RowSpan="2"
                                     Source="{Binding ImageURL}"
                                     Aspect="AspectFill"
-                                    HeightRequest="60"
-                                    WidthRequest="60">
+                                    HeightRequest="80"
+                                    WidthRequest="80">
                         </Image>
                         <Label Grid.Column="1"
                                Text="{Binding Name}"
-                               FontAttributes="Bold">
+                               FontAttributes="Bold"
+                               WidthRequest="60"
+                               >
                         </Label>
                         <Label Grid.Row="1"
                                Grid.Column="1"
                                Text="{Binding Description}"
+                               WidthRequest="60"
+                               
                                VerticalOptions="End">
 
                         </Label>

@@ -7,7 +7,7 @@
                 Clicked="OnDisplayAlertButtonClicked">
             
         </Button>
-        <Button Text="Display Display alert question"
+        <Button Text="Display alert question"
                 Clicked="OnDisplayAlertQuestionButtonClicked">
 
         </Button>

@@ -21,5 +21,9 @@ namespace FilmAdd
         {
             await Navigation.PushAsync(new LibraryPage());
         }
+        private async void OpenAlert(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new AlertPage());
+        }
     }
 }
